@@ -1,0 +1,7 @@
+{
+  "name": "prolab1",
+  "version-string": "1.0.0",
+  "dependencies": [
+    "curl"
+  ]
+}

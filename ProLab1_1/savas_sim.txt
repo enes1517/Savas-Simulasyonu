@@ -1,0 +1,208 @@
+Arastirmanin piyade uzerinde savunma etkisi  yuzde 10 
+  Arastirmanin okcu uzerinde savunma etkisi  yuzde 10 
+Arastirmanin suvari uzerinde savunma etkisi  yuzde 10  
+ Arastirmanin kusatma uzerinde savunma etkisi  yuzde 10 
+Arastirmanin OrkDovucsu uzerinde saldiri etkisi  yuzde 10  
+Arastirmanin Mizrakci uzerinde saldiri etkisi  yuzde 10  
+Arastirmanin VargBinici uzerinde saldiri etkisi  yuzde 10  
+Arastirmanin Trol uzerinde  saldiri etkisi yuzde 10  
+
+
+
+1.Adim:
+
+Insan Toplam Saldiri=(kusatma_makineleriToplamGuc)100.000000 1(Adet)+(okcularToplamGuc)40.000000 1(Adet)+(piyadelerToplamGuc)30.000000 1(Adet)+(SuvarilerToplamGuc)50.000000 1(Adet)=220.00
+
+Ork Toplam Savunma=(MizrakciToplamGuc)20.000000 (1)(Adet)+(OrkDovucsuToplamGuc)25.000000 1(Adet)+(VargBiniciToplamGuc)35.000000 1(Adet)+(TrolToplamGuc)40.000000 1(Adet)=120.00
+
+Net Hasar=ToplamSaldiriInsan*(1-(ToplamSavunmaOrk/ToplamSaldiriInsan))
+220.00*(1-(120.00/220.00))=100.000000
+
+Orantili Hasar Dagilimi:  OrkDovuscusu=25.000000/120.0=0.2083=>120.0*0.208333=25.000000 hasar
+Saðlýk Puaný = Eski Saðlýk Puaný - Net Hasar / Birim Sayýsý
+
+ OrkDovuscusu Kalan can:100-25.000000=75
+  mizrakci=20.000000/120.0=0.1667=>120.0*0.166667=20.000000 hasar
+
+ mizrakci Kalan can:90-20.000000=70
+  VargBinici=35.000000/120.0=0.2917=>120.0*0.291667=35.000000 hasar
+
+ VargBinici Kalan can:130-35.000000=95
+Troller=40.000000/120.0=0.3333=>120.0*0.333333=40.000000 hasar
+
+ Trol Kalan can:200-40.000000=160
+
+
+
+2.Adim:
+
+
+Ork Toplam Saldiri=(MizrakciToplamGuc)49.500000 1(Adet)+(ork_dovusculeriToplamGuc)38.500000 1(Adet)+(VargBiniciToplamGuc)60.500000 1(Adet)+(TrolToplamGuc)77.000000 1(Adet)=225.50
+
+Insan Toplam Savunma=(KusatmaToplamGuc)55.000000 (1)(Adet)+(OkcuToplamGuc)22.000000 1(Adet)+(PiyadeToplamGuc)44.000000 1(Adet)+(SuvariToplamGuc)33.000000 1(Adet)=154.00
+
+Net Hasar=ToplamSaldiriOrk*(1-(ToplamSavunmaInsan/ToplamSaldiriOrk))
+225.50*(1-(154.00/225.50))=71.500000
+
+Orantili Hasar Dagilimi:  Piyade=44.000000/154.0=0.2857=>154.0*0.285714=44.000004 hasar
+Saðlýk Puaný = Eski Saðlýk Puaný - Net Hasar / Birim Sayýsý
+
+  piyade Kalan can:100-44.000004=56
+  Okcu=22.000000/154.0=0.1429=>154.0*0.142857=22.000002 hasar
+
+ okcu Kalan can:80-22.000002=58 
+  Suvariler=33.000000/154.0=0.2143=>154.0*0.214286=33.000000 hasar
+
+  Suvari Kalan can:120-33.000000=87
+ Kusatma=55.000000/154.0=0.3571=>154.0*0.357143=55.000000 hasar
+
+  Kusatma Kalan can:150-55.000000=95
+
+
+3.Adim:
+
+Insan Toplam Saldiri=(kusatma_makineleriToplamGuc)100.000000 1(Adet)+(okcularToplamGuc)40.000000 1(Adet)+(piyadelerToplamGuc)30.000000 1(Adet)+(SuvarilerToplamGuc)50.000000 1(Adet)=220.00
+
+Ork Toplam Savunma=(MizrakciToplamGuc)20.000000 (1)(Adet)+(OrkDovucsuToplamGuc)25.000000 1(Adet)+(VargBiniciToplamGuc)35.000000 1(Adet)+(TrolToplamGuc)40.000000 1(Adet)=120.00
+
+Net Hasar=ToplamSaldiriInsan*(1-(ToplamSavunmaOrk/ToplamSaldiriInsan))
+220.00*(1-(120.00/220.00))=100.000000
+
+Orantili Hasar Dagilimi:  OrkDovuscusu=25.000000/120.0=0.2083=>120.0*0.208333=25.000000 hasar
+Saðlýk Puaný = Eski Saðlýk Puaný - Net Hasar / Birim Sayýsý
+
+ OrkDovuscusu Kalan can:75-25.000000=50
+  mizrakci=20.000000/120.0=0.1667=>120.0*0.166667=20.000000 hasar
+
+ mizrakci Kalan can:70-20.000000=50
+  VargBinici=35.000000/120.0=0.2917=>120.0*0.291667=35.000000 hasar
+
+ VargBinici Kalan can:95-35.000000=60
+Troller=40.000000/120.0=0.3333=>120.0*0.333333=40.000000 hasar
+
+ Trol Kalan can:160-40.000000=120
+
+
+
+4.Adim:
+
+
+Ork Toplam Saldiri=(MizrakciToplamGuc)49.500000 1(Adet)+(ork_dovusculeriToplamGuc)38.500000 1(Adet)+(VargBiniciToplamGuc)60.500000 1(Adet)+(TrolToplamGuc)77.000000 1(Adet)=225.50
+
+Insan Toplam Savunma=(KusatmaToplamGuc)55.000000 (1)(Adet)+(OkcuToplamGuc)22.000000 1(Adet)+(PiyadeToplamGuc)44.000000 1(Adet)+(SuvariToplamGuc)33.000000 1(Adet)=154.00
+
+Net Hasar=ToplamSaldiriOrk*(1-(ToplamSavunmaInsan/ToplamSaldiriOrk))
+225.50*(1-(154.00/225.50))=71.500000
+
+Orantili Hasar Dagilimi:  Piyade=44.000000/154.0=0.2857=>154.0*0.285714=44.000004 hasar
+Saðlýk Puaný = Eski Saðlýk Puaný - Net Hasar / Birim Sayýsý
+
+  piyade Kalan can:55-44.000004=11
+  Okcu=22.000000/154.0=0.1429=>154.0*0.142857=22.000002 hasar
+
+ okcu Kalan can:58-22.000002=36 
+  Suvariler=33.000000/154.0=0.2143=>154.0*0.214286=33.000000 hasar
+
+  Suvari Kalan can:87-33.000000=54
+ Kusatma=55.000000/154.0=0.3571=>154.0*0.357143=55.000000 hasar
+
+  Kusatma Kalan can:95-55.000000=40
+
+
+5.Adim:
+
+Insan Toplam Saldiri=(kusatma_makineleriToplamGuc)90.000000 1(Adet)+(okcularToplamGuc)36.000000 1(Adet)+(piyadelerToplamGuc)27.000000 1(Adet)+(SuvarilerToplamGuc)45.000000 1(Adet)=198.00
+
+Ork Toplam Savunma=(MizrakciToplamGuc)18.000000 (1)(Adet)+(OrkDovucsuToplamGuc)22.500000 1(Adet)+(VargBiniciToplamGuc)31.500000 1(Adet)+(TrolToplamGuc)36.000000 1(Adet)=108.00
+
+Net Hasar=ToplamSaldiriInsan*(1-(ToplamSavunmaOrk/ToplamSaldiriInsan))
+198.00*(1-(108.00/198.00))=90.000000
+
+Orantili Hasar Dagilimi:  OrkDovuscusu=22.500000/108.0=0.2083=>108.0*0.208333=22.500000 hasar
+Saðlýk Puaný = Eski Saðlýk Puaný - Net Hasar / Birim Sayýsý
+
+ OrkDovuscusu Kalan can:50-22.500000=28
+  mizrakci=18.000000/108.0=0.1667=>108.0*0.166667=18.000000 hasar
+
+ mizrakci Kalan can:50-18.000000=32
+  VargBinici=31.500000/108.0=0.2917=>108.0*0.291667=31.499998 hasar
+
+ VargBinici Kalan can:60-31.499998=29
+Troller=36.000000/108.0=0.3333=>108.0*0.333333=36.000000 hasar
+
+ Trol Kalan can:120-36.000000=84
+
+
+
+6.Adim:
+
+
+Ork Toplam Saldiri=(MizrakciToplamGuc)44.550000 1(Adet)+(ork_dovusculeriToplamGuc)34.650000 1(Adet)+(VargBiniciToplamGuc)54.450000 1(Adet)+(TrolToplamGuc)69.300000 1(Adet)=202.95
+
+Insan Toplam Savunma=(KusatmaToplamGuc)49.500000 (1)(Adet)+(OkcuToplamGuc)19.800000 1(Adet)+(PiyadeToplamGuc)39.600000 1(Adet)+(SuvariToplamGuc)29.700000 1(Adet)=138.60
+
+Net Hasar=ToplamSaldiriOrk*(1-(ToplamSavunmaInsan/ToplamSaldiriOrk))
+202.95*(1-(138.60/202.95))=64.349983
+
+Orantili Hasar Dagilimi:  Piyade=39.600000/138.6=0.2857=>138.6*0.285714=39.599998 hasar
+Saðlýk Puaný = Eski Saðlýk Puaný - Net Hasar / Birim Sayýsý
+
+  piyade Kalan can:10-39.599998=-29
+  Okcu=19.800000/138.6=0.1429=>138.6*0.142857=19.799999 hasar
+
+ okcu Kalan can:36-19.799999=17 
+  Suvariler=29.700000/138.6=0.2143=>138.6*0.214286=29.700001 hasar
+
+  Suvari Kalan can:54-29.700001=25
+ Kusatma=49.500000/138.6=0.3571=>138.6*0.357143=49.500000 hasar
+
+  Kusatma Kalan can:40-49.500000=-9
+
+
+7.Adim:
+
+Insan Toplam Saldiri=(kusatma_makineleriToplamGuc)90.000000 1(Adet)+(okcularToplamGuc)36.000000 1(Adet)+(piyadelerToplamGuc)27.000000 1(Adet)+(SuvarilerToplamGuc)45.000000 1(Adet)=198.00
+
+Ork Toplam Savunma=(MizrakciToplamGuc)18.000000 (1)(Adet)+(OrkDovucsuToplamGuc)22.500000 1(Adet)+(VargBiniciToplamGuc)31.500000 1(Adet)+(TrolToplamGuc)36.000000 1(Adet)=108.00
+
+Net Hasar=ToplamSaldiriInsan*(1-(ToplamSavunmaOrk/ToplamSaldiriInsan))
+198.00*(1-(108.00/198.00))=90.000000
+
+Orantili Hasar Dagilimi:  OrkDovuscusu=22.500000/108.0=0.2083=>108.0*0.208333=22.500000 hasar
+Saðlýk Puaný = Eski Saðlýk Puaný - Net Hasar / Birim Sayýsý
+
+ OrkDovuscusu Kalan can:27-22.500000=5
+  mizrakci=18.000000/108.0=0.1667=>108.0*0.166667=18.000000 hasar
+
+ mizrakci Kalan can:32-18.000000=14
+  VargBinici=31.500000/108.0=0.2917=>108.0*0.291667=31.499998 hasar
+
+ VargBinici Kalan can:28-31.499998=-3
+Troller=36.000000/108.0=0.3333=>108.0*0.333333=36.000000 hasar
+
+ Trol Kalan can:84-36.000000=48
+
+
+
+8.Adim:
+
+
+Ork Toplam Saldiri=(MizrakciToplamGuc)44.550000 1(Adet)+(ork_dovusculeriToplamGuc)34.650000 1(Adet)+(VargBiniciToplamGuc)54.450000 1(Adet)+(TrolToplamGuc)69.300000 1(Adet)=202.95
+
+Insan Toplam Savunma=(KusatmaToplamGuc)49.500000 (1)(Adet)+(OkcuToplamGuc)19.800000 1(Adet)+(PiyadeToplamGuc)39.600000 1(Adet)+(SuvariToplamGuc)29.700000 1(Adet)=138.60
+
+Net Hasar=ToplamSaldiriOrk*(1-(ToplamSavunmaInsan/ToplamSaldiriOrk))
+202.95*(1-(138.60/202.95))=64.349983
+
+Orantili Hasar Dagilimi:  Piyade=39.600000/138.6=0.2857=>138.6*0.285714=39.599998 hasar
+Saðlýk Puaný = Eski Saðlýk Puaný - Net Hasar / Birim Sayýsý
+
+  Okcu=19.800000/138.6=0.1429=>138.6*0.142857=19.799999 hasar
+
+ okcu Kalan can:16-19.799999=-3 
+  Suvariler=29.700000/138.6=0.2143=>138.6*0.214286=29.700001 hasar
+
+  Suvari Kalan can:24-29.700001=-5
+ Kusatma=49.500000/138.6=0.3571=>138.6*0.357143=49.500000 hasar
+
+Insanlarýn caný bitti Orklar Kazandi
